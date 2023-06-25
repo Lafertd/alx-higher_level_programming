@@ -1,4 +1,4 @@
-from add_0 import add(a, b):
+from add_0 import add(a, b)
 
     a = 1
     b = 2
