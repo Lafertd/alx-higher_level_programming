@@ -1,1 +1,1 @@
-# Solution to tasks on Python - Almost a circle
+tasks on Python - Almost a circle
