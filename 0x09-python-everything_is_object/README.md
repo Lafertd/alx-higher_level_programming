@@ -1,1 +1,1 @@
-0x09 everything is object
+''$'\302\226''0x09-python-everything_is_object'/
