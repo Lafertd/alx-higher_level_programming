@@ -1,2 +1,2 @@
 -- print the full description of a table
-SELECT * FROM first_table;
+USE @db_name && SELECT * FROM first_table;
