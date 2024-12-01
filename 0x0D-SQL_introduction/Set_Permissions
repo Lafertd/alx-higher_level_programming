@@ -1,7 +1,0 @@
-#!/usr/bin/bash
-
-sudo chown -R asher:asher * && find * -type d -exec chmod 755 {} + && find * -type f -exec chmod 744 {} +
-
-# Explanation:
-# # Directories: 755 (owner: rwx, group/others: rx)
-# # Files: 744 (owner: rwx, group/others: r)
